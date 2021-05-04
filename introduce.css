@@ -1,0 +1,16 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+#video {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 120px;
+}
+
+.header {
+    display: block;
+    text-align: center;
+}
