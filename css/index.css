@@ -7,11 +7,11 @@
 }
 
 #video {
-        margin-left: auto;
-        margin-right: auto;
-        padding-top: 120px;
-        width: 400px;
-        height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 120px;
+    width: 400px;
+    height: 300px;
 }
 
 .header-main {
@@ -58,7 +58,8 @@
 }
 
 main {
-    padding-left: 30px;
+    position: relative;
+    left: 60px;
 }
 
 .introduce {
@@ -67,8 +68,8 @@ main {
 
 .subject {
     font-size: 50px;
-    padding-top: 30px;
-    padding-bottom: 40px; 
+    margin-top: 30px;
+    margin-bottom: 50px; 
 
 }
 
@@ -80,13 +81,15 @@ main {
 
 .imgs {
     text-align: center;
-    width: 20%;
+    width: 13%;
     height: auto;
     object-fit: cover;
+    padding: 20px;
 }
 
 .more-text {
     width: 80%;
     align-items: center;
+    padding-top: 20px;
     border-bottom: ivory 2px solid;
 }
