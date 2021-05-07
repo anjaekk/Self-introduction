@@ -68,7 +68,7 @@ main {
 
 .subject {
     font-size: 50px;
-    margin-top: 30px;
+    margin-top: 40px;
     margin-bottom: 50px; 
 
 }
@@ -79,7 +79,7 @@ main {
     flex-wrap: wrap;
 }
 
-.imgs {
+.more-img {
     text-align: center;
     width: 13%;
     height: auto;
@@ -92,4 +92,13 @@ main {
     align-items: center;
     padding-top: 20px;
     border-bottom: ivory 2px solid;
+}
+
+.contact-image {
+    width: 100px;
+    margin-right: 50px;
+}
+
+.contact-image:hover {
+    transform: scale(1.1);
 }
